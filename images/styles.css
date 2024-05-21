@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+    --font-family: 'Outfit', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.qr_container {
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+    margin: 120px 1000px;
+    border-radius: 20px;
+}
+
+img {
+    display: block;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+h3 {
+    color: hsl(218, 44%, 22%);
+    font-family: var(--font-family);
+    padding: 10px;
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-family: var(--font-family);
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+.attribution { 
+    font-size: 15px; 
+    text-align: center; 
+    background-color: rgb(43, 43, 57);
+    color: rgb(120, 120, 158);
+    padding: 20px;
+}
+    
+.attribution a { 
+    color: rgb(100, 147, 100);
+    font-family: var(--font-family); 
+    text-decoration: none;
+}
+
+.attribution a:hover {
+    background: linear-gradient(rgb(30, 23, 23), rgb(47, 58, 83));
+}
