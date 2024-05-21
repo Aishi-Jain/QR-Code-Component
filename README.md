@@ -52,5 +52,5 @@ In future projects, I aim to:
 
 ## Author
 
-- Website - [Aishi Jain](https://www.your-site.com)
+- Website - [Aishi Jain](https://aishi-jain.github.io/QR-Code-Component/)
 - Frontend Mentor - [@Aishi-Jain](https://www.frontendmentor.io/profile/Aishi-Jain)
