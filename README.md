@@ -51,6 +51,5 @@ In future projects, I aim to:
 - Enhance my JavaScript skills to add interactivity to similar components
 
 ## Author
-
-- Website - [Aishi Jain](https://aishi-jain.github.io/QR-Code-Component/)
 - Frontend Mentor - [@Aishi-Jain](https://www.frontendmentor.io/profile/Aishi-Jain)
+- LinkedIn - [Aishi Jain](https://www.linkedin.com/in/aishi-jain-367758267/)
